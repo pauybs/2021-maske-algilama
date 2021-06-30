@@ -13,7 +13,7 @@ Test için kullanılan: **120**
 
 
 Veriler Maskeli ve Maskesiz diye etiketlenerek iki gruba ayrılmıştır. 
-Görseller genel olarak kaggle üzerinden alınmıştır. 
+Görseller genel olarak Kaggle ve Github üzerinden alınmıştır. 
 
 Datasetin weight dosyaları boyut sınırları nedeninle [Google Drive](https://drive.google.com/drive/folders/1gmMSbe5Dof4hZvgvcdK8aiKHZf0CjGsV?usp=sharing) hesabına yüklenmiştir. 
 # Kullanılan Kütüphaneler
